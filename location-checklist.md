@@ -19,10 +19,17 @@ Should:
 - [ ] Fireplace, firepit or some place to do ceremonial burning of the A4 papers
 - [ ] Good or at least decent food
 - [ ] Possibility for dietary restrictions, e.g. vegetarian, nuts,..
+- [ ] All papers are sheperded and submitted before conference, no working papers in conference
 
 Could:
 
 - [ ] Sauna or similar
+
+Won't Need:
+
+- [ ] Classroom-conference room(s)
+- [ ] WiFi
+- [ ] Keynote speaker
 
 Questions:
 
@@ -37,4 +44,7 @@ Questions:
 - [ ] IS the service included or who does cleaning and dishes?
 - [ ] If alcohol is billed through the location, is it possible to have a receipt with single line and separate line by line which academics do not need to share when doing their travel bill
 - [ ] Do we need to bring out own sheets, towels, sleeping bags, ..
+- [ ] There is often need to print, for example, forgotten papers - so either if we can use locations printer or bring our own
+
+
  

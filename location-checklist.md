@@ -5,7 +5,7 @@ Must:
 
 - [ ] Enough cosy corners or rooms where the pattern workshops can be arranged, typically 4-8 ppl sitting in circle
 - [ ] One long table so we can eat as a community passing food around
-- [ ] Rural or remote settings, not in a city as otherwise people disappear and do not stay and sosialize together
+- [ ] Rural or remote settings, not in a city as otherwise people disappear and do not stay and socialize together
 - [ ] Common room where people can hang out freely at the evening and drink beer, this might be loud
 - [ ] Outside area where Games can be arranged - enough room for parachute
 - [ ] Possibility to arrange some group activity - examples: todoggan hill, vodka cellar tour, troll forest walk, viking games
@@ -109,5 +109,131 @@ Questions:
       Yes
 - [x] Do we need to bring out own sheets, towels, sleeping bags, ..
       No
+- [ ] There is often need to print, for example, forgotten papers - so either if we can use locations printer or bring our own
+      I will ask.
+
+
+
+Hillerød:
+=========
+
+Must:
+
+- [1] Enough cosy corners or rooms where the pattern workshops can be arranged, typically 4-8 ppl sitting in circle
+- [0/1] One long table so we can eat as a community passing food around
+      Almost 
+- [1] Rural or remote settings, not in a city as otherwise people disappear and do not stay and socialize together
+      It's at the perifery of a town (Hillerød).
+      forest and big green area with some "adventure park" implements
+      sheep
+- [1] Common room where people can hang out freely at the evening and drink beer, this might be loud
+- [1] Outside area where Games can be arranged - enough room for parachute
+- [1] Possibility to arrange some group activity - examples: todoggan hill, vodka cellar tour, troll forest walk, viking games
+
+Should:
+
+- [1] Space for 10 to 25 participants
+- [0] Location should have some character, not typical hotel-a-alike atmosphere. Feels like a small willage just made for us
+      It's a school camp place. The ambiance is colder / more hotel-like, but it still looks nice. Especially the outdoor area, if we get lucky for good weather
+- [0] Place is small, or we are the main customers and others are not distrubed by us or distrub us
+- [1] There are at least some single rooms for those who require privacy, but the price is the same for all, we have had bunk beds
+- [1] Fireplace, firepit or some place to do ceremonial burning of the A4 papers
+- [0/1] Good or at least decent food
+      I didn't have the option to taste the food in any of the locations.
+- [1] Possibility for dietary restrictions, e.g. vegetarian, nuts,..
+
+Could:
+
+- [0] Sauna or similar
+  
+Won't Need:
+
+- [1] Classroom-conference room(s)
+      There is one  big room which can be used as conf or for games.
+- [1] WiFi. 
+      There is wifi in all locations.
+- [0] Keynote speaker
+
+Questions:
+
+- [n/a] Try out the food, is it any good?
+- [x] How is the breakfast handled?
+      They serve all the food to us, there are breakfast hours
+- [ ] How are the evening beers handled, bought from the place or brought by us
+      Todo
+- [ ] Are there limitations where the beer can be consumed, if brough by us
+      Todo
+- [ ] When the location needs to know participants
+      Todo
+- [ ] Location cancelation policy
+      Todo
+- [ ] How are payments handled; lodging, conference t-shirt, food, drinks, proceedings (~500€)
+      They agree us to charge everything on their fiscal entity
+- [?] Nordforsk - participants from three nordic countries and free €€€
+- [x] IS the service included or who does cleaning and dishes?
+      Service included
+- [ ] If alcohol is billed through the location, is it possible to have a receipt with single line and separate line by line which academics do not need to share when doing their travel bill
+- [ ] Do we need to bring out own sheets, towels, sleeping bags, ..
+- [ ] There is often need to print, for example, forgotten papers - so either if we can use locations printer or bring our own
+      I will ask.
+      
+Lyngby:
+=======
+
+Must:
+
+- [0] Enough cosy corners or rooms where the pattern workshops can be arranged, typically 4-8 ppl sitting in circle
+- [1] One long table so we can eat as a community passing food around
+- [1] Rural or remote settings, not in a city as otherwise people disappear and do not stay and socialize together
+      In the middle of a natural reservation. There are a few houses and a lake nearby. Very remote.
+- [1] Common room where people can hang out freely at the evening and drink beer, this might be loud
+- [1] Outside area where Games can be arranged - enough room for parachute
+- [1] Possibility to arrange some group activity - examples: todoggan hill, vodka cellar tour, troll forest walk, viking games
+
+Should:
+
+- [1] Space for 10 to 25 participants
+- [1] Location should have some character, not typical hotel-a-alike atmosphere. Feels like a small willage just made for us
+      Old big dark building, majestic trees. It looks a bit like from an old movie
+- [ ] Place is small, or we are the main customers and others are not distrubed by us or distrub us
+  It can accomodate more than 50 people (I will ask again how many, but I think they have 25 rooms of 2, 4 and 6 beds).  
+- [1] There are at least some single rooms for those who require privacy, but the price is the same for all, we have had bunk beds
+- [1] Fireplace, firepit or some place to do ceremonial burning of the A4 papers
+- [0/1] Good or at least decent food
+      I didn't have the option to taste the food in any of the locations.
+- [1] Possibility for dietary restrictions, e.g. vegetarian, nuts,..
+
+Could:
+
+- [0] Sauna or similar
+  
+Won't Need:
+
+- [1] Classroom-conference room(s)
+      There is one  big room which can be used as conf or for games.
+- [1] WiFi. 
+      There is wifi in all locations.
+- [0] Keynote speaker
+
+Questions:
+
+- [n/a] Try out the food, is it any good?
+- [x] How is the breakfast handled?
+      They serve all the food to us, there are breakfast hours
+- [x] How are the evening beers handled, bought from the place or brought by us
+      Both options. If we want beer from them, they leave drinks outside for us, and count the leftovers in the morning to know how much to charge us.
+- [x] Are there limitations where the beer can be consumed, if brough by us
+      No. We can bring our own beer
+- [ ] When the location needs to know participants
+      Todo
+- [ ] Location cancelation policy
+      Todo
+- [ ] How are payments handled; lodging, conference t-shirt, food, drinks, proceedings (~500€)
+      They agree us to charge everything on their fiscal entity
+- [?] Nordforsk - participants from three nordic countries and free €€€
+- [x] IS the service included or who does cleaning and dishes?
+      Service included
+- [ ] If alcohol is billed through the location, is it possible to have a receipt with single line and separate line by line which academics do not need to share when doing their travel bill
+- [ ] Do we need to bring out own sheets, towels, sleeping bags, ..
 - [ ] There is often need to print, for example, forgotten papers - so either if we can use locations printer or bring our own
       I will ask.

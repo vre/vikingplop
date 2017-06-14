@@ -109,10 +109,6 @@ Questions:
       Yes
 - [x] Do we need to bring out own sheets, towels, sleeping bags, ..
       No
-- [ ] There is often need to print, for example, forgotten papers - so either if we can use locations printer or bring our own
-      I will ask.
-
-
 
 Hillerød:
 =========
@@ -140,7 +136,7 @@ Should:
 - [1] Fireplace, firepit or some place to do ceremonial burning of the A4 papers
 - [0/1] Good or at least decent food
       I didn't have the option to taste the food in any of the locations.
-- [ ] Possibility for dietary restrictions, e.g. vegetarian, nuts,..
+- [1] Possibility for dietary restrictions, e.g. vegetarian, nuts,..
 
 Could:
 

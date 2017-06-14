@@ -140,7 +140,7 @@ Should:
 - [1] Fireplace, firepit or some place to do ceremonial burning of the A4 papers
 - [0/1] Good or at least decent food
       I didn't have the option to taste the food in any of the locations.
-- [1] Possibility for dietary restrictions, e.g. vegetarian, nuts,..
+- [ ] Possibility for dietary restrictions, e.g. vegetarian, nuts,..
 
 Could:
 
@@ -195,8 +195,8 @@ Should:
 - [1] Space for 10 to 25 participants
 - [1] Location should have some character, not typical hotel-a-alike atmosphere. Feels like a small willage just made for us
       Old big dark building, majestic trees. It looks a bit like from an old movie
-- [ ] Place is small, or we are the main customers and others are not distrubed by us or distrub us
-  It can accomodate more than 50 people (I will ask again how many, but I think they have 25 rooms of 2, 4 and 6 beds).  
+- [0] Place is small, or we are the main customers and others are not distrubed by us or distrub us
+  They have 100 places in total.
 - [1] There are at least some single rooms for those who require privacy, but the price is the same for all, we have had bunk beds
 - [1] Fireplace, firepit or some place to do ceremonial burning of the A4 papers
 - [0/1] Good or at least decent food
@@ -224,16 +224,18 @@ Questions:
       Both options. If we want beer from them, they leave drinks outside for us, and count the leftovers in the morning to know how much to charge us.
 - [x] Are there limitations where the beer can be consumed, if brough by us
       No. We can bring our own beer
-- [ ] When the location needs to know participants
-      Todo
-- [ ] Location cancelation policy
-      Todo
-- [ ] How are payments handled; lodging, conference t-shirt, food, drinks, proceedings (~500€)
-      They agree us to charge everything on their fiscal entity
+- [x] When the location needs to know participants
+      1 month before, have to be at least 15
+- [x] Location cancelation policy
+      We pay the whole amount
+- [0] How are payments handled; lodging, conference t-shirt, food, drinks, proceedings (~500€)
+      Not possible to charge other payments on the hostel.
 - [?] Nordforsk - participants from three nordic countries and free €€€
-- [x] IS the service included or who does cleaning and dishes?
+- [x] Is the service included or who does cleaning and dishes?
       Service included
-- [ ] If alcohol is billed through the location, is it possible to have a receipt with single line and separate line by line which academics do not need to share when doing their travel bill
-- [ ] Do we need to bring out own sheets, towels, sleeping bags, ..
-- [ ] There is often need to print, for example, forgotten papers - so either if we can use locations printer or bring our own
+- [1] If alcohol is billed through the location, is it possible to have a receipt with single line and separate line by line which academics do not need to share when doing their travel bill
+      It's possible to do that
+- [1] Do we need to bring out own sheets, towels, sleeping bags, ..
+      Can bring or can rent
+- [1] There is often need to print, for example, forgotten papers - so either if we can use locations printer or bring our own
       I will ask.

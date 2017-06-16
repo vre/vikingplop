@@ -110,6 +110,7 @@ Questions:
 - [x] Do we need to bring out own sheets, towels, sleeping bags, ..
       No
 
+
 Hillerød:
 =========
 
@@ -117,7 +118,7 @@ Must:
 
 - [1] Enough cosy corners or rooms where the pattern workshops can be arranged, typically 4-8 ppl sitting in circle
 - [0/1] One long table so we can eat as a community passing food around
-      Almost 
+      2 tables
 - [1] Rural or remote settings, not in a city as otherwise people disappear and do not stay and socialize together
       It's at the perifery of a town (Hillerød).
       forest and big green area with some "adventure park" implements
@@ -155,24 +156,26 @@ Questions:
 - [n/a] Try out the food, is it any good?
 - [x] How is the breakfast handled?
       They serve all the food to us, there are breakfast hours
-- [ ] How are the evening beers handled, bought from the place or brought by us
-      Todo
-- [ ] Are there limitations where the beer can be consumed, if brough by us
-      Todo
-- [ ] When the location needs to know participants
-      Todo
-- [ ] Location cancelation policy
-      Todo
-- [ ] How are payments handled; lodging, conference t-shirt, food, drinks, proceedings (~500€)
+- [x] How are the evening beers handled, bought from the place or brought by us
+      Open 24 hours, we buy the drinks from them
+- [n/a] Are there limitations where the beer can be consumed, if brough by us
+- [x] When the location needs to know participants
+      2 weeks in advance
+- [x] Location cancelation policy
+      If we want to cancel the whole event, it's 2 months before. Else, 2 weeks notice for small changes in number of participants.
+- [1] How are payments handled; lodging, conference t-shirt, food, drinks, proceedings (~500€)
       They agree us to charge everything on their fiscal entity
 - [?] Nordforsk - participants from three nordic countries and free €€€
 - [x] IS the service included or who does cleaning and dishes?
       Service included
-- [ ] If alcohol is billed through the location, is it possible to have a receipt with single line and separate line by line which academics do not need to share when doing their travel bill
-- [ ] Do we need to bring out own sheets, towels, sleeping bags, ..
-- [ ] There is often need to print, for example, forgotten papers - so either if we can use locations printer or bring our own
-      I will ask.
-      
+- [1] If alcohol is billed through the location, is it possible to have a receipt with single line and separate line by line which academics do not need to share when doing their travel bill
+      yes
+- [x] Do we need to bring out own sheets, towels, sleeping bags, ..
+      we can rent them from the location, not allowed with sleeping bags
+- [1] There is often need to print, for example, forgotten papers - so either if we can use locations printer or bring our own
+      It's ok
+
+
 Lyngby:
 =======
 
